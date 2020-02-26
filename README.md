@@ -1,6 +1,6 @@
 # objid
 
-[![Crates.io](https://img.shields.io/crates/v/objid.svg)](https://crates.io/crates/objid) [![Build Status](https://travis-ci.org/montao/objid.svg?branch=master)](https://travis-ci.org/montao/objid)  
+[![Crates.io](https://img.shields.io/crates/v/objid.svg)](https://crates.io/crates/objid) [![Build Status](https://travis-ci.com/montao/objid.svg?branch=master)](https://travis-ci.com/montao/objid)  
 
 
 The random Rust object identifier.
