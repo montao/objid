@@ -1,6 +1,6 @@
 # objid
 
-[![Crates.io](https://img.shields.io/crates/v/objid.svg)](https://crates.io/crates/objid) [![Build Status](https://travis-ci.com/montao/objid.svg?branch=master)](https://travis-ci.com/montao/objid)  
+[![Crates.io](https://img.shields.io/crates/v/objid.svg)](https://crates.io/crates/objid) [![Ubuntu](https://github.com/montao/objid/actions/workflows/Rust.yml/badge.svg)](https://github.com/montao/objid/actions/workflows/Rust.yml)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3877/badge)](https://bestpractices.coreinfrastructure.org/projects/3877)
 
