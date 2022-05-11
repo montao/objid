@@ -1,8 +1,8 @@
 [package]
 name = "objid"
-version = "0.1.10"
+version = "0.1.11"
 authors = ["Niklas R. <niklasr@protonmail.com>"]
-edition = "2018"
+edition = "2021"
 license = "MIT"
 description = "Generate a random object identifier."
 keywords = ["random"]
@@ -11,7 +11,7 @@ readme = "README.md"
 
 [dependencies]
 getopts = "0.2"
-rand = "0.8"
+rand = "0.8.4"
 
 [badges]
 maintenance = { status = "actively-developed" }
