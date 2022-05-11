@@ -1,7 +1,6 @@
 # objid
 
-[![Crates.io](https://img.shields.io/crates/v/objid.svg)](https://crates.io/crates/objid) [![Ubuntu](https://github.com/montao/objid/actions/workflows/rust.yml/badge.svg)](https://github.com/montao/objid/actions/workflows/rust.yml)
-
+[![Crates.io](https://img.shields.io/crates/v/objid.svg)](https://crates.io/crates/objid) 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3877/badge)](https://bestpractices.coreinfrastructure.org/projects/3877)
 
 The random Rust object identifier.
