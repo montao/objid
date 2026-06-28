@@ -2,7 +2,8 @@
 name = "objid"
 version = "0.1.11"
 authors = ["Niklas R. <niklasr@protonmail.com>"]
-edition = "2021"
+edition = "2024"
+rust-version = "1.85"
 license = "MIT"
 description = "Generate a random object identifier."
 keywords = ["random"]
@@ -11,8 +12,4 @@ readme = "README.md"
 
 [dependencies]
 getopts = "0.2"
-rand = "0.8.4"
-
-[badges]
-maintenance = { status = "actively-developed" }
-travis-ci = { repository = "montao/objid" }
+rand = "0.10"
